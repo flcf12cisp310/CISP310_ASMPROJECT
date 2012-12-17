@@ -1,7 +1,7 @@
 ###CISP310_ASMPROJECT
 ==================
 
-#Project: Racer X - Go Go ASM Speed Racer!
+#Project: MSP-AutoDriver
 
 ###Description:
 This hub will document our progress and contain the Source Code for *CISP 310 Final Group Project*.
@@ -66,33 +66,6 @@ F bit : Fast Interrupts (F)
   
 ARM instruction set divided into six broad classes: Data Movement, Arithmetic, Memory Access, Logical and Bit Manipulation, Flow control, and System Control/ Privileged
   
-Instruction Mnemonics  
-	>+---------------------------------------------------------+--------------------------------------------------------+  
-	>|   Operation                                                   |   Operation                                                 |  
-	>|   Mnemonic        meaning                           |   Mnemonic               meaning                  |   
-	>+---------------------------------------------------------+--------------------------------------------------------+  
-	>     ADC             Add with carry                               MVN                  Logical NOT           
-	>     ADD
-	>     AND
-	>     BAL
-	>     B(cc)
-	>     BIC
-	>     BLAL
- 	>     BL(cc)
-	>     CMP
- 	>     EOR
-	>     LDM
-	>     LDR
-	>     LDRB
-	>     MLA
-	>     MOV
-	>     MRS
-	>     MSR
-	>     MUL
-
-Conditional code (cc) Mnemonics  
-CS Carry Set  
- 
 
 
 
